@@ -1,0 +1,1 @@
+{"first_name": "Test", "last_name": "Customer", "addresses": [], "other_info": "t7", "details": [{"key": "Email", "value": "test@test.test", "id": "2267"}, {"value": "1234567890", "key": "Mobile", "id": "1422"}], "addresses": [{"id": 8725, "value": {"city": "Coimbatore", "state": "Tamil Nadu", "postal_code": "641004", "id": "8725", "country": "India"}}], "id": 21}

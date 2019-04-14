@@ -1,0 +1,1 @@
+"C:\Program Files\7-Zip\7z.exe" a -ttar  b aalamecomm_app PKG-INFO setup.py resources -so | "C:\Program Files\7-Zip\7z.exe" -si -tgzip a ecomm.tgz
